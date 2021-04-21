@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/DevWangliang/jlnx2019/master/jlnxoa20200506.ipa</string>
+					<string>https://raw.githubusercontent.com/DevWangliang/jlnx2019/master/20210421oa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.rc.qy.jlnxoa</string>
 				<key>bundle-version</key>
-				<string>2.3.3</string>
+				<string>2.3.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
